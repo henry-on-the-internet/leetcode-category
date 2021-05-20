@@ -15,3 +15,7 @@
 ## Anagrams
 ### 242. Valid Anagram
 ### 49. Group Anagrams
+
+## Dynamic Programming
+### 198. House Robber
+### 213. House Robber II
