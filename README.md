@@ -19,3 +19,8 @@
 ## Dynamic Programming
 ### 198. House Robber
 ### 213. House Robber II
+
+
+## Backtracking
+### 22. Generate Parentheses
+### 46. Permutations
