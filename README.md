@@ -24,3 +24,6 @@
 ## Backtracking
 ### 22. Generate Parentheses
 ### 46. Permutations
+
+## Greedy
+### 134. Gas Station
