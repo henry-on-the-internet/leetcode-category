@@ -5,6 +5,7 @@
 ### 704. Binary Search
 ### 278. First Bad Version
 ### 35. Search Insert Position
+### 475. Heaters
 
 ## Data structure Implementation
 
