@@ -6,6 +6,8 @@
 ### 278. First Bad Version
 ### 35. Search Insert Position
 ### 475. Heaters
+### 611. Valid Triangle Number
+
 
 ## Data structure Implementation
 
